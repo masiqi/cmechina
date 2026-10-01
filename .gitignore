@@ -1,0 +1,5 @@
+.codegraph/
+.cursor/
+.firecrawl/
+node_modules/
+*.log
